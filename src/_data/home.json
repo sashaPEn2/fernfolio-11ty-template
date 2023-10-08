@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
-  "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "title": "Новости 10А Столинской государственной гимназии",
+  "image": "https://static.vecteezy.com/system/resources/previews/001/257/159/original/reading-hot-news-flat-design-concept-vector.jpg",
+  "image_alt": "News banner",
+  "body": "Н﻿овости нашего класса на отдельном сайте."
 }
