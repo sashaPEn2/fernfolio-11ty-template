@@ -8,6 +8,4 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-
-
-![Fern in Hand]( "Fern in Hand")
+![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
